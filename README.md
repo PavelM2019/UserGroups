@@ -14,7 +14,6 @@ Before you begin, make sure you have the following tools installed:
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/PavelM2019/UserGroups
 
 ### Setting up the backend part.
