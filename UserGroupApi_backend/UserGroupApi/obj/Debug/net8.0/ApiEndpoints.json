@@ -1,0 +1,96 @@
+[
+  {
+    "ContainingType": "UserGroupApi.Controllers.UserController",
+    "Method": "AddGroup",
+    "RelativePath": "api/User/add-group",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupModel",
+        "Type": "UserGroupApi.Models.GroupModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserGroupApi.Controllers.UserController",
+    "Method": "AddUser",
+    "RelativePath": "api/User/add-user",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userModel",
+        "Type": "UserGroupApi.Models.UserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserGroupApi.Controllers.UserController",
+    "Method": "AddUserToGroup",
+    "RelativePath": "api/User/add-user-to-group",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "UserGroupApi.Models.UserGroupModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserGroupApi.Controllers.UserController",
+    "Method": "GetAvailableGroupsForUser",
+    "RelativePath": "api/User/available-groups/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[UserGroupApi.Models.GroupModel, UserGroupApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "UserGroupApi.Controllers.UserController",
+    "Method": "GetUsersWithGroups",
+    "RelativePath": "api/User/users-with-groups",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[UserGroupApi.Models.UserGroupsModel, UserGroupApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

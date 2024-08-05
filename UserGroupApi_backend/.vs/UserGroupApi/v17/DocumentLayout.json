@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|d:\\work\\testtasks\\usergroups\\usergroupapi_backend\\usergroupapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|solutionrelative:usergroupapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|d:\\work\\testtasks\\usergroups\\usergroupapi_backend\\usergroupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|solutionrelative:usergroupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|d:\\work\\testtasks\\usergroups\\usergroupapi_backend\\usergroupapi\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|solutionrelative:usergroupapi\\services\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|d:\\work\\testtasks\\usergroups\\usergroupapi_backend\\usergroupapi\\models\\usergroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|solutionrelative:usergroupapi\\models\\usergroupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|d:\\work\\testtasks\\usergroups\\usergroupapi_backend\\usergroupapi\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|solutionrelative:usergroupapi\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|d:\\work\\testtasks\\usergroups\\usergroupapi_backend\\usergroupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{288E581F-2991-4FA3-A2C5-E39ADCB78087}|UserGroupApi\\UserGroupApi.csproj|solutionrelative:usergroupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 337,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbService.cs",
+              "DocumentMoniker": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Services\\DbService.cs",
+              "RelativeDocumentMoniker": "UserGroupApi\\Services\\DbService.cs",
+              "ToolTip": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Services\\DbService.cs",
+              "RelativeToolTip": "UserGroupApi\\Services\\DbService.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAIwEYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:10:36.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserGroupModel.cs",
+              "DocumentMoniker": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Models\\UserGroupModel.cs",
+              "RelativeDocumentMoniker": "UserGroupApi\\Models\\UserGroupModel.cs",
+              "ToolTip": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Models\\UserGroupModel.cs",
+              "RelativeToolTip": "UserGroupApi\\Models\\UserGroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T20:29:11.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Models\\GroupModel.cs",
+              "RelativeDocumentMoniker": "UserGroupApi\\Models\\GroupModel.cs",
+              "ToolTip": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Models\\GroupModel.cs",
+              "RelativeToolTip": "UserGroupApi\\Models\\GroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:20:21.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Program.cs",
+              "RelativeDocumentMoniker": "UserGroupApi\\Program.cs",
+              "ToolTip": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Program.cs",
+              "RelativeToolTip": "UserGroupApi\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T22:13:54.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserGroupApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserGroupApi\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwC4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T21:49:19.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\appsettings.json",
+              "RelativeDocumentMoniker": "UserGroupApi\\appsettings.json",
+              "ToolTip": "D:\\work\\TestTasks\\UserGroups\\UserGroupApi_backend\\UserGroupApi\\appsettings.json",
+              "RelativeToolTip": "UserGroupApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-02T20:48:23.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+<div class="select-group-popup">
+    <h2>Select Group</h2>
+    <div class="form-container">
+      <label for="group-select">Group:</label>
+      <select id="group-select" [(ngModel)]="selectedGroupId">
+        <option *ngFor="let group of availableGroups" [value]="group.groupId">{{ group.groupName }}</option>
+      </select>
+    </div>
+    <div class="button-container">
+      <button (click)="onSave()">Add</button>
+      <button (click)="onCancel()">Cancel</button>
+    </div>
+</div>

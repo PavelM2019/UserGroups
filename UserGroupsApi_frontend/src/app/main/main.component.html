@@ -1,0 +1,32 @@
+<div class="main-page">
+ <div class="user-groups-page">
+  <h1>User Groups</h1>
+  <div class="input-container">
+    <input [(ngModel)]="userName" placeholder="Enter user name">
+    <button button (click)="addUser()">Add User</button>
+  </div>
+  <div class="input-container">
+    <input [(ngModel)]="groupName" placeholder="Enter group name">
+    <button button (click)="addGroup()">Add Group</button>
+  </div>
+  <table>
+    <thead>
+      <tr>
+        <th>User</th>
+        <th>Groups</th>
+        <th>Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let user of users"> 
+        <td>{{ user.userName }}</td>
+        <td>
+          <div *ngFor="let group of user.groups">{{ group.groupName }}</div>
+        </td>
+        <td class="actions">
+          <button class="add-to-group-button" (click)="openGroupPopup(user.userId)">Add to Group</button>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
